@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1608325022 source:c:\users\djame\documents\github\projet_latraque_f2_stephane_wilhelm\projet_latraque_f2_stephane_wilhelm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"define.h"
+
+1608325022 c:\users\djame\documents\github\projet_latraque_f2_stephane_wilhelm\projet_latraque_f2_stephane_wilhelm\define.h
+	<time.h>
+	<windows.h>
+
